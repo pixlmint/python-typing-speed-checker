@@ -1,0 +1,4 @@
+venv
+typing_stats.csv
+__pycache__
+.idea
